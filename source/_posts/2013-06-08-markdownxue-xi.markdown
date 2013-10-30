@@ -30,7 +30,9 @@ categories: markdown
 
         # h1标题
 		## h2标题
-		### h3标题 ###
+		### h3标题 
+
+<!-- more -->
 
 3. _引用_
 
