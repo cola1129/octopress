@@ -6,3 +6,5 @@ comments: true
 sharing: true
 footer: true
 ---
+
+使用过几年linux，工作使用PHP，业余使用Python。
